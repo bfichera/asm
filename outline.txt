@@ -1,0 +1,20 @@
+Abstract
+
+Main intro
+
+introduction to the AM
+
+equivalence of AM to q->0 potts model
+
+An example (forest fires? magnets?)
+
+Defects in the AM model
+
+My variant
+temperature in some way
+evolution from finite temperature model to 0 temperature model
+evolution from threshold to nonthreshold model
+
+simulations and results
+
+conclusions

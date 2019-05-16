@@ -1,0 +1,180 @@
+p = 0.2, initialized_grid_50_0.2.npy, _50_0.2, 1000
+t_exponent = -0.8921404877224871
+s_exponent = -1.0173609596270141
+n_exponent = -0.9652303028749689
+
+p = 0.3, initialized_grid_50_0.3.npy, _50_0.3, 1000
+t_exponent = -0.7888924113058993
+s_exponent = -0.9586271999500067
+n_exponent = -0.8948330904883338
+
+p = 0.4, initialized_grid_50_0.4.npy, _50_0.4, 1000
+t_exponent = -0.9187184933921095
+s_exponent = -0.9449945821623154
+n_exponent = -0.8650083308148636
+
+p = 0.5, initialized_grid_50_0.5.npy, _50_0.5, 1000
+t_exponent = -0.9379422438173826
+s_exponent = -1.0576842316507757
+n_exponent = -1.0229826414180327
+
+p = 0.6, initialized_grid_50_0.6.npy, _50_0.6, 1000
+t_exponent = -0.7993228107051037
+s_exponent = -0.9487378434941757
+n_exponent = -0.8197800487638918
+
+p = 0.7, initialized_grid_50_0.7.npy, _50_0.7, 1000
+t_exponent = -0.9153550470505718
+s_exponent = -0.9716840688106428
+n_exponent = -1.0383587580389009
+
+p = 0.8, initialized_grid_50_0.8.npy, _50_0.8, 1000
+t_exponent = -0.9457565448054711
+s_exponent = -0.9780448213267506
+n_exponent = -1.0104111751873552
+
+p = 0.9, initialized_grid_50_0.9.npy, _50_0.9, 1000
+t_exponent = -0.855872810591457
+s_exponent = -1.0298214132328813
+n_exponent = -0.9913393892789779
+
+p = 1.0, initialized_grid_50_1.0.npy, _50_1.0, 1000
+t_exponent = -0.7936465162070689
+s_exponent = -1.286977456545511
+n_exponent = -1.2368023118171425
+
+p = 1.0, initialized_grid_50_1.0.npy, _50_1.0, 10000
+t_exponent = -0.8710374155138662
+s_exponent = -0.9866232581086406
+n_exponent = -0.9697396918113015
+
+p = 0.2, initialized_grid_50_0.2.npy, _50_0.2, 10000
+t_exponent = -0.8492596701666362
+s_exponent = -0.9179515796089996
+n_exponent = -0.8787244315857397
+
+p = 0.3, initialized_grid_50_0.3.npy, _50_0.3, 10000
+t_exponent = -0.8658182205062467
+s_exponent = -0.9190736766109845
+n_exponent = -0.9005626236880144
+
+p = 0.4, initialized_grid_50_0.4.npy, _50_0.4, 10000
+t_exponent = -0.8922187873813933
+s_exponent = -0.9739503126965551
+n_exponent = -0.9291425360103618
+
+p = 0.5, initialized_grid_50_0.5.npy, _50_0.5, 10000
+t_exponent = -0.8649776278074287
+s_exponent = -0.9634861816165062
+n_exponent = -0.9057930836057428
+
+p = 0.6, initialized_grid_50_0.6.npy, _50_0.6, 10000
+t_exponent = -0.9187218778526691
+s_exponent = -1.0159170180866162
+n_exponent = -0.9776149278094419
+
+p = 0.7, initialized_grid_50_0.7.npy, _50_0.7, 10000
+t_exponent = -0.9357032384658779
+s_exponent = -1.010641367999512
+n_exponent = -0.9674394666591715
+
+p = 0.8, initialized_grid_50_0.8.npy, _50_0.8, 10000
+t_exponent = -0.8951538942206564
+s_exponent = -1.0007395733006177
+n_exponent = -0.9736095402658762
+
+p = 0.9, initialized_grid_50_0.9.npy, _50_0.9, 10000
+t_exponent = -0.8595784739768244
+s_exponent = -0.9319848680989705
+n_exponent = -0.9189430131597129
+
+p = 1.0, initialized_grid_50_1.0.npy, _50_1.0, 10000
+t_exponent = -0.9029541810747116
+s_exponent = -1.0698997935863885
+n_exponent = -1.067661135241285
+
+p = 0.2, initialized_grid_50_0.2.npy, _50_0.2, 10000
+t_exponent = -0.8492446774667299
+s_exponent = -0.9193947296951986
+n_exponent = -0.9111354366447684
+
+p = 0.3, initialized_grid_50_0.3.npy, _50_0.3, 10000
+t_exponent = -0.8404140008278446
+s_exponent = -0.9371062755642482
+n_exponent = -0.8816797819874655
+
+p = 0.4, initialized_grid_50_0.4.npy, _50_0.4, 10000
+t_exponent = -0.9043573730575988
+s_exponent = -0.998493033239187
+n_exponent = -0.9383306262267098
+
+p = 0.5, initialized_grid_50_0.5.npy, _50_0.5, 10000
+t_exponent = -0.9379024230942921
+s_exponent = -0.9428895464629347
+n_exponent = -0.9165156852708045
+
+p = 0.6, initialized_grid_50_0.6.npy, _50_0.6, 10000
+t_exponent = -0.8962758207171125
+s_exponent = -0.9685859754587925
+n_exponent = -0.913146473466462
+
+p = 0.7, initialized_grid_50_0.7.npy, _50_0.7, 10000
+t_exponent = -0.8575388672256263
+s_exponent = -0.9504754444957367
+n_exponent = -0.9130663131229835
+
+p = 0.8, initialized_grid_50_0.8.npy, _50_0.8, 10000
+t_exponent = -0.9012680111755891
+s_exponent = -0.9597753333192827
+n_exponent = -0.943537141062319
+
+p = 0.9, initialized_grid_50_0.9.npy, _50_0.9, 10000
+t_exponent = -0.8799709574610529
+s_exponent = -0.978135364220516
+n_exponent = -0.9575954544125895
+
+p = 1.0, initialized_grid_50_1.0.npy, _50_1.0, 10000
+t_exponent = -0.8622424612143147
+s_exponent = -0.9739431792544309
+n_exponent = -0.9707473709646955
+
+p = 0.2, initialized_grid_50_0.2.npy, _50_0.2, 10000
+t_exponent = -0.8811999237224761
+s_exponent = -0.9117461929784072
+n_exponent = -0.8796046081926008
+
+p = 0.3, initialized_grid_50_0.3.npy, _50_0.3, 10000
+t_exponent = -0.86443774101242
+s_exponent = -0.9399685461119287
+n_exponent = -0.8916031976872449
+
+p = 0.4, initialized_grid_50_0.4.npy, _50_0.4, 10000
+t_exponent = -0.8776227571924606
+s_exponent = -0.9595776694458571
+n_exponent = -0.9334016460883574
+
+p = 0.5, initialized_grid_50_0.5.npy, _50_0.5, 10000
+t_exponent = -0.8936387095042708
+s_exponent = -0.9589603967656648
+n_exponent = -0.9416831938247823
+
+p = 0.6, initialized_grid_50_0.6.npy, _50_0.6, 10000
+t_exponent = -0.8884521629863124
+s_exponent = -0.947574750700318
+n_exponent = -0.9200122479948841
+
+p = 0.7, initialized_grid_50_0.7.npy, _50_0.7, 10000
+t_exponent = -0.9048212667991422
+s_exponent = -0.9903803169067724
+n_exponent = -0.9584463632048051
+
+p = 0.8, initialized_grid_50_0.8.npy, _50_0.8, 10000
+t_exponent = -0.9101295951027171
+s_exponent = -0.9850148629489696
+n_exponent = -0.9301799909783484
+
+p = 0.9, initialized_grid_50_0.9.npy, _50_0.9, 10000
+t_exponent = -0.8701023679825562
+s_exponent = -0.9801981765531762
+n_exponent = -0.9387192353442507
+

@@ -7,11 +7,11 @@ save_data = True
 load_data = not generate_data
 plot_data = True
 save_figures = True
-figsize = (2.2, 2.2)
+figsize = (3.375, 3.375)
 
 L = 20
 save_grid = False
-pull_grid = True
+pull_grid = False
 
 pull_filename = 'initialized_grid.npy'
 
@@ -21,7 +21,7 @@ else:
     initial_grid = np.load(pull_filename, allow_pickle=True)
 
 grid = initial_grid
-num_steps = 10000
+num_steps = 1600
 t = 0
 ts = []
 num_toppless = []
@@ -113,7 +113,7 @@ if plot_data is True:
     fig = plt.figure(figsize=figsize)
     plt.xlabel(r'$t$')
     plt.ylabel(r'$\rho$')
-    plt.plot(ts, densities)
+    plt.plot(ts, densities, color='black', markerfacecolor='grey', linestyle='-')
     plt.tight_layout()
     plt.savefig('density.pdf')
     plt.show()

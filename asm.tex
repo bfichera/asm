@@ -125,7 +125,7 @@ An illustration of a simple 2-dimensional ASM is given in Fig.~\ref{fig:rules}. 
 \caption{\label{fig:rules} An illustration of the ASM toppling rules (section~\ref{sec:rules}) in the simple case of a $4 \times 4$ square lattice with open boundary conditions, with $\Delta_{ij} = -1$ if sites $i$ and $j$ are nearest neighbors, $\Delta_{ij} = 4$ if $i = j$, and $\Delta_{ij} = 0$ otherwise.}
 \end{figure}
 
-\subsection{Phenomenology}
+\subsection{Phenomenology\label{sec:phenomenology}}
 
 In the ASM, there are in general three quantities which are used to study the dynamical properties. First, define for a given avalanche
 
@@ -150,6 +150,19 @@ To show that the ASM exhibits self-organized criticality, I performed simulation
 \includegraphics{avalanches}
 \caption{\label{fig:avalanches}Histogram of avalanche sizes, $n$ (a) and avalanche lifetimes, $t$ (b) after $10000$ drive periods on a 2-dimensional $20 \times 20$ square ASM model with open boundary conditions, nearest-neighbor toppling rules like Fig.~\ref{fig:rules}, and $\Delta_{ii} = 4$ for all $i$. The histograms show power law behavior over 1-2 decades. Deviations from power law behavior are likely due to finite-size effects~\cite{jensen}.}
 \end{figure}
+
+\section{SOC in real life}
+
+A number of systems which are encountered in physics exibit behavior which is similar to that of the ASM. As a matter of fact, there is reason to suspect that the ASM can actually provide a good description of those systems, if not quantitatively than at least qualitatively. This is because the aspects of the ASM model which are thought to be essential for SOC, namely that the system exhibit threshold behavior and be driven at a low frequency compared to the relaxation rate, are readily apparent in these systems. A classic example is the Earth's crust, where, as in the ASM, long periods of structural stability are interrupted by frequent releases of energy known as earthquakes. That the speed of the Earth's crust in the stationary state -- a few centimeters per year -- is so much slower than during an earthquake constitutes the condition that the drive period be much longer than the relaxation time. Moreover, the system naturally involves threshold behavior, as tectonic plates slip past one another only when the associated stress passes the threshold set by the effective coefficient of static friction. And indeed, measurable quantities like the energy release $E$ of a given earthquake have been shown to be power law-distributed and scale invariant.
+
+Although the Earth's crust is one of the most successful examples of SOC in nature, many other systems exhibit SOC behavior. For example, the coalescence of droplets of water into ``rivers'' on a glass surface has been shown to exhibit power law behavior like in the ASM. In type II superconductors, magnetic flux vortices can accumulate on material defects to some threshold concentration until their mutual repulsion forces them away, a phenomenon which has been shown to exhibit power law-distributed event sizes and frequencies. It has even been posited that the interruption of long periods of slow biological evolution by rapid explosions of species diversity could be an example of SOC. While SOC may not be able to account for all of the quantitative and qualitative features of these systems, it at least provides as qualitative paradigm for interpreting the existence of critical behavior in the absence of tuning parameters.
+
+\section{Defects in sandpile models}
+
+While many variants of the ASM have been studied by researchers since the model's discovery in 1987, in the course of my research I have become particularly interested in the inclusion of defects to the model. There are many interesting questions to be ask when considering the effect of defects in the ASM, but one in particular which has caught some attention is the question of whether a given system still displays SOC upon the introduction of a finite concentration of defects. The question has been explored by introducing defects of various kinds to the model and investigating the distribution functions described in section~\ref{sec:phenomenology}.
+
+By far the most common type of defect which one can introduce to the ASM is a dissipative defect. 
+
 
 
 

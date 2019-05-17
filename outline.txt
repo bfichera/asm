@@ -18,3 +18,11 @@ evolution from threshold to nonthreshold model
 simulations and results
 
 conclusions
+
+
+Examples
+
+0. There are lots of systems which exhibit criticality without tuning parameters
+1. there are many reasons you might think SOC provides a good description of those phenomena
+2. threshold behavior, low driving rate, globally stationary regime, power distributions of event sizes and scale invariance
+3. earthquakes, droplets on a window, magnetic flux vortices, something biological
